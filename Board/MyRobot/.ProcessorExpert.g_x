@@ -1,0 +1,125 @@
+<CodeGenerationInfo>
+  <ToolchainSettings>
+    <option>
+      <name>PE_G_4PEx_ToolChain_Compiler_SearchUserPaths</name>
+      <values lines_count="4">
+        <Line>"${ProcessorExpertPath}/lib/Kinetis/iofiles"</Line>
+        <Line>"${ProcessorExpertPath}/lib/Kinetis/pdd/inc"</Line>
+        <Line>"${ProjDirPath}/Sources"</Line>
+        <Line>"${ProjDirPath}/Generated_Code"</Line>
+      </values>
+    </option>
+  </ToolchainSettings>
+  <GeneratedFilesList>
+    <GeneratedByPE>
+      <File Name="Documentation/ProcessorExpert_SIGNALS.txt" FileDate="2014-06-12, 00:17:20" FileAge="1402521440372" FileType="3072" />
+      <File Name="Project_Settings/Debugger/MKL46Z256.mem" FileDate="2013-09-11, 14:02:54" FileAge="1378897374000" FileType="45637" CompNumb="132" />
+      <File Name="Documentation/doxygen/PwmLdd1.txt" FileDate="2014-01-07, 02:21:12" FileAge="1389054072000" FileType="45637" CompNumb="220" />
+      <File Name="Generated_Code/TriggerTop.h" FileDate="2014-06-10, 16:55:56" FileAge="1402408556675" FileType="45637" CompNumb="145" />
+      <File Name="Generated_Code/RBT1.h" FileDate="2014-06-10, 17:45:30" FileAge="1402411530148" FileType="45637" CompNumb="263" />
+      <File Name="Documentation/doxygen/pex.css" FileDate="2013-09-11, 14:16:00" FileAge="1378898160000" FileType="16384" CompNumb="132" />
+      <File Name="Generated_Code/LEDpin1.h" FileDate="2013-12-25, 16:24:10" FileAge="1387981450000" FileType="45637" CompNumb="180" />
+      <File Name="Generated_Code/portable.h" FileDate="2014-05-02, 20:44:09" FileAge="1399052649457" FileType="45637" CompNumb="133" />
+      <File Name="Generated_Code/TriggerTop.c" FileDate="2014-06-10, 16:55:56" FileAge="1402408556747" FileType="45637" CompNumb="145" />
+      <File Name="Generated_Code/RBT1.c" FileDate="2014-06-12, 00:15:22" FileAge="1402521322285" FileType="45637" CompNumb="263" />
+      <File Name="Documentation/doxygen/ASerialLdd1.txt" FileDate="2014-05-05, 19:35:03" FileAge="1399307703556" FileType="45637" CompNumb="81" />
+      <File Name="Generated_Code/LEDpin1.c" FileDate="2013-12-25, 16:24:10" FileAge="1387981450000" FileType="45637" CompNumb="180" />
+      <File Name="Generated_Code/portTicks.h" FileDate="2014-05-02, 20:44:09" FileAge="1399052649477" FileType="45637" CompNumb="133" />
+      <File Name="Generated_Code/event_groups.h" FileDate="2014-05-02, 20:44:09" FileAge="1399052649143" FileType="45637" CompNumb="133" />
+      <File Name="Sources/Events.h" FileDate="2014-06-10, 22:03:56" FileAge="1402427036874" FileType="131328" />
+      <File Name="Generated_Code/port.c" FileDate="2014-05-02, 20:44:09" FileAge="1399052649526" FileType="45637" CompNumb="133" />
+      <File Name="Generated_Code/projdefs.h" FileDate="2014-05-02, 20:44:09" FileAge="1399052649448" FileType="45637" CompNumb="133" />
+      <File Name="Generated_Code/OS.h" FileDate="2014-05-02, 20:44:09" FileAge="1399052649269" FileType="45637" CompNumb="133" />
+      <File Name="Generated_Code/event_groups.c" FileDate="2014-05-02, 20:44:09" FileAge="1399052649142" FileType="45637" CompNumb="133" />
+      <File Name="Sources/Events.c" FileDate="2014-06-10, 22:04:43" FileAge="1402427083963" FileType="131328" />
+      <File Name="Generated_Code/IN4.h" FileDate="2014-01-07, 23:21:10" FileAge="1389129670000" FileType="45637" CompNumb="260" />
+      <File Name="Generated_Code/OS.c" FileDate="2014-05-02, 20:44:09" FileAge="1399052649272" FileType="45637" CompNumb="133" />
+      <File Name="Generated_Code/PE_Const.h" FileDate="2013-12-25, 16:24:10" FileAge="1387981450000" FileType="45637" />
+      <File Name="Documentation/doxygen/EchoTop.txt" FileDate="2014-06-10, 23:27:37" FileAge="1402432057177" FileType="45637" CompNumb="147" />
+      <File Name="Generated_Code/IN4.c" FileDate="2014-01-07, 23:21:10" FileAge="1389129670000" FileType="45637" CompNumb="260" />
+      <File Name="Generated_Code/IN3.h" FileDate="2014-01-07, 23:19:10" FileAge="1389129550000" FileType="45637" CompNumb="238" />
+      <File Name="Documentation/ProcessorExpert.txt" FileDate="2014-06-10, 17:14:26" FileAge="1402409666569" FileType="3072" />
+      <File Name="Generated_Code/IN3.c" FileDate="2014-01-07, 23:19:10" FileAge="1389129550000" FileType="45637" CompNumb="238" />
+      <File Name="Generated_Code/BlueSerial.h" FileDate="2014-05-05, 19:35:03" FileAge="1399307703528" FileType="45637" CompNumb="80" />
+      <File Name="Generated_Code/IN2.h" FileDate="2014-01-07, 02:22:44" FileAge="1389054164000" FileType="45637" CompNumb="252" />
+      <File Name="Generated_Code/PE_LDD.h" FileDate="2014-06-10, 17:14:26" FileAge="1402409666363" FileType="45637" CompNumb="132" />
+      <File Name="Generated_Code/BlueSerial.c" FileDate="2014-05-05, 19:35:03" FileAge="1399307703517" FileType="45637" CompNumb="80" />
+      <File Name="Generated_Code/IN2.c" FileDate="2014-01-07, 02:22:44" FileAge="1389054164000" FileType="45637" CompNumb="252" />
+      <File Name="Generated_Code/IN1.h" FileDate="2014-01-07, 02:21:12" FileAge="1389054072000" FileType="45637" CompNumb="219" />
+      <File Name="Generated_Code/PE_LDD.c" FileDate="2014-06-10, 17:14:26" FileAge="1402409666361" FileType="45637" CompNumb="132" />
+      <File Name="Generated_Code/IN1.c" FileDate="2014-01-07, 02:21:12" FileAge="1389054072000" FileType="45637" CompNumb="219" />
+      <File Name="Documentation/doxygen/RoutingReport.txt" FileDate="2013-09-11, 14:16:00" FileAge="1378898160000" FileType="45637" CompNumb="132" />
+      <File Name="Generated_Code/Cpu.h" FileDate="2014-01-07, 23:19:12" FileAge="1389129552000" FileType="45637" CompNumb="132" />
+      <File Name="Generated_Code/Cpu.c" FileDate="2014-06-10, 17:14:26" FileAge="1402409666352" FileType="45637" CompNumb="132" />
+      <File Name="Generated_Code/StackMacros.h" FileDate="2014-05-02, 20:44:09" FileAge="1399052649433" FileType="45637" CompNumb="133" />
+      <File Name="Generated_Code/TU2.h" FileDate="2014-01-07, 23:19:10" FileAge="1389129550000" FileType="45637" CompNumb="240" />
+      <File Name="Generated_Code/mpu_wrappers.h" FileDate="2014-05-02, 20:44:09" FileAge="1399052649393" FileType="45637" CompNumb="133" />
+      <File Name="Generated_Code/BitIoLdd1.h" FileDate="2013-12-25, 16:24:10" FileAge="1387981450000" FileType="45637" CompNumb="181" />
+      <File Name="Project_Settings/Linker_Files/ProcessorExpert.ld" FileDate="2013-12-25, 16:24:10" FileAge="1387981450000" FileType="8" CompNumb="132" />
+      <File Name="Generated_Code/portasm.s" FileDate="2014-05-02, 20:44:09" FileAge="1399052649454" FileType="45637" CompNumb="133" />
+      <File Name="Generated_Code/TU2.c" FileDate="2014-01-07, 23:19:10" FileAge="1389129550000" FileType="45637" CompNumb="240" />
+      <File Name="Generated_Code/TU1.h" FileDate="2014-01-07, 02:21:12" FileAge="1389054072000" FileType="45637" CompNumb="221" />
+      <File Name="Generated_Code/Debugging.h" FileDate="2014-05-02, 20:44:08" FileAge="1399052648980" FileType="45637" CompNumb="179" />
+      <File Name="Generated_Code/BitIoLdd1.c" FileDate="2013-12-25, 16:24:10" FileAge="1387981450000" FileType="45637" CompNumb="181" />
+      <File Name="Generated_Code/TU1.c" FileDate="2014-01-07, 02:21:12" FileAge="1389054072000" FileType="45637" CompNumb="221" />
+      <File Name="Generated_Code/Debugging.c" FileDate="2014-05-02, 20:44:08" FileAge="1399052648976" FileType="45637" CompNumb="179" />
+      <File Name="Generated_Code/heap_4.c" FileDate="2014-05-02, 20:44:09" FileAge="1399052649572" FileType="45637" CompNumb="133" />
+      <File Name="Generated_Code/portmacro.h" FileDate="2014-05-02, 20:44:09" FileAge="1399052649450" FileType="45637" CompNumb="133" />
+      <File Name="Generated_Code/heap_3.c" FileDate="2014-05-02, 20:44:09" FileAge="1399052649580" FileType="45637" CompNumb="133" />
+      <File Name="Documentation/doxygen/PwmLdd4.txt" FileDate="2014-01-07, 23:19:10" FileAge="1389129550000" FileType="45637" CompNumb="261" />
+      <File Name="Generated_Code/PE_Error.h" FileDate="2013-12-25, 16:24:10" FileAge="1387981450000" FileType="45637" />
+      <File Name="Generated_Code/heap_2.c" FileDate="2014-05-02, 20:44:09" FileAge="1399052649611" FileType="45637" CompNumb="133" />
+      <File Name="Generated_Code/Vectors.c" FileDate="2014-06-10, 17:14:26" FileAge="1402409666365" FileType="45637" CompNumb="132" />
+      <File Name="Generated_Code/IO_Map.h" FileDate="2013-12-25, 16:24:10" FileAge="1387981450000" FileType="45637" />
+      <File Name="Generated_Code/FreeRTOS_license.txt" FileDate="2014-05-02, 20:44:09" FileAge="1399052649121" FileType="45637" CompNumb="133" />
+      <File Name="Generated_Code/heap_1.c" FileDate="2014-05-02, 20:44:09" FileAge="1399052649627" FileType="45637" CompNumb="133" />
+      <File Name="Generated_Code/ASerialLdd1.h" FileDate="2014-05-05, 19:35:03" FileAge="1399307703536" FileType="45637" CompNumb="81" />
+      <File Name="Generated_Code/FreeRTOSConfig.h" FileDate="2014-05-02, 20:44:09" FileAge="1399052649631" FileType="45637" CompNumb="133" />
+      <File Name="Generated_Code/ASerialLdd1.c" FileDate="2014-05-05, 19:35:03" FileAge="1399307703540" FileType="45637" CompNumb="81" />
+      <File Name="Generated_Code/TriggerRight.h" FileDate="2014-06-10, 17:14:26" FileAge="1402409666274" FileType="45637" CompNumb="272" />
+      <File Name="Documentation/doxygen/ProcessorExpert.txt" FileDate="2014-06-10, 17:14:26" FileAge="1402409666356" FileType="45637" CompNumb="132" />
+      <File Name="Generated_Code/TriggerLeft.h" FileDate="2014-06-10, 17:14:26" FileAge="1402409666283" FileType="45637" CompNumb="271" />
+      <File Name="Generated_Code/TriggerRight.c" FileDate="2014-06-10, 17:14:26" FileAge="1402409666271" FileType="45637" CompNumb="272" />
+      <File Name="Generated_Code/TriggerLeft.c" FileDate="2014-06-10, 17:14:26" FileAge="1402409666280" FileType="45637" CompNumb="271" />
+      <File Name="Generated_Code/Utility.h" FileDate="2014-05-02, 20:44:09" FileAge="1399052649263" FileType="45637" CompNumb="86" />
+      <File Name="Generated_Code/Wait.h" FileDate="2014-05-02, 20:44:09" FileAge="1399052649690" FileType="45637" CompNumb="150" />
+      <File Name="Documentation/doxygen/TriggerLeft.txt" FileDate="2014-06-10, 17:14:26" FileAge="1402409666277" FileType="45637" CompNumb="271" />
+      <File Name="Generated_Code/Utility.c" FileDate="2014-05-02, 20:44:09" FileAge="1399052649266" FileType="45637" CompNumb="86" />
+      <File Name="Generated_Code/list.h" FileDate="2014-05-02, 20:44:09" FileAge="1399052649554" FileType="45637" CompNumb="133" />
+      <File Name="Generated_Code/Wait.c" FileDate="2014-05-02, 20:44:09" FileAge="1399052649693" FileType="45637" CompNumb="150" />
+      <File Name="Documentation/doxygen/PwmLdd3.txt" FileDate="2014-01-07, 02:21:12" FileAge="1389054072000" FileType="45637" CompNumb="253" />
+      <File Name="Sources/ProcessorExpert.c" FileDate="2014-06-10, 17:14:26" FileAge="1402409666347" FileType="128" />
+      <File Name="Documentation/doxygen/TU2.txt" FileDate="2014-01-07, 23:19:10" FileAge="1389129550000" FileType="45637" CompNumb="240" />
+      <File Name="Documentation/doxygen/pex.doxyfile" FileDate="2013-09-11, 14:16:00" FileAge="1378898160000" FileType="45637" CompNumb="132" />
+      <File Name="Generated_Code/FreeRTOS.h" FileDate="2014-05-02, 20:44:09" FileAge="1399052649638" FileType="45637" CompNumb="133" />
+      <File Name="Generated_Code/list.c" FileDate="2014-05-02, 20:44:09" FileAge="1399052649550" FileType="45637" CompNumb="133" />
+      <File Name="Generated_Code/PwmLdd4.h" FileDate="2014-01-07, 23:21:10" FileAge="1389129670000" FileType="45637" CompNumb="261" />
+      <File Name="Documentation/doxygen/TriggerTop.txt" FileDate="2014-06-10, 16:55:56" FileAge="1402408556553" FileType="45637" CompNumb="145" />
+      <File Name="Generated_Code/croutine.h" FileDate="2014-05-02, 20:44:09" FileAge="1399052649685" FileType="45637" CompNumb="133" />
+      <File Name="Documentation/doxygen/BitIoLdd1.txt" FileDate="2013-09-18, 12:27:30" FileAge="1379496450000" FileType="45637" CompNumb="181" />
+      <File Name="Generated_Code/task.h" FileDate="2014-05-02, 20:44:09" FileAge="1399052649399" FileType="45637" CompNumb="133" />
+      <File Name="Generated_Code/semphr.h" FileDate="2014-05-02, 20:44:09" FileAge="1399052649436" FileType="45637" CompNumb="133" />
+      <File Name="Generated_Code/PwmLdd4.c" FileDate="2014-01-07, 23:21:10" FileAge="1389129670000" FileType="45637" CompNumb="261" />
+      <File Name="Generated_Code/PwmLdd3.h" FileDate="2014-01-07, 02:22:44" FileAge="1389054164000" FileType="45637" CompNumb="253" />
+      <File Name="Generated_Code/croutine.c" FileDate="2014-05-02, 20:44:09" FileAge="1399052649655" FileType="45637" CompNumb="133" />
+      <File Name="Generated_Code/PwmLdd3.c" FileDate="2014-01-07, 02:22:44" FileAge="1389054164000" FileType="45637" CompNumb="253" />
+      <File Name="Generated_Code/PwmLdd2.h" FileDate="2014-01-07, 23:19:10" FileAge="1389129550000" FileType="45637" CompNumb="239" />
+      <File Name="Documentation/doxygen/TriggerRight.txt" FileDate="2014-06-10, 17:14:26" FileAge="1402409666268" FileType="45637" CompNumb="272" />
+      <File Name="Generated_Code/PwmLdd2.c" FileDate="2014-01-07, 23:19:10" FileAge="1389129550000" FileType="45637" CompNumb="239" />
+      <File Name="Generated_Code/PwmLdd1.h" FileDate="2014-01-07, 02:21:12" FileAge="1389054072000" FileType="45637" CompNumb="220" />
+      <File Name="Generated_Code/queue.h" FileDate="2014-05-02, 20:44:09" FileAge="1399052649439" FileType="45637" CompNumb="133" />
+      <File Name="Generated_Code/PwmLdd1.c" FileDate="2014-01-07, 02:21:12" FileAge="1389054072000" FileType="45637" CompNumb="220" />
+      <File Name="Generated_Code/timers.h" FileDate="2014-05-02, 20:44:09" FileAge="1399052649389" FileType="45637" CompNumb="133" />
+      <File Name="Generated_Code/queue.c" FileDate="2014-05-02, 20:44:09" FileAge="1399052649444" FileType="45637" CompNumb="133" />
+      <File Name="Generated_Code/tasks.c" FileDate="2014-05-02, 20:44:09" FileAge="1399052649396" FileType="45637" CompNumb="133" />
+      <File Name="Generated_Code/timers.c" FileDate="2014-05-02, 20:44:09" FileAge="1399052649337" FileType="45637" CompNumb="133" />
+      <File Name="Documentation/doxygen/TU1.txt" FileDate="2014-01-07, 02:21:12" FileAge="1389054072000" FileType="45637" CompNumb="221" />
+      <File Name="Documentation/doxygen/PwmLdd2.txt" FileDate="2014-01-07, 23:19:10" FileAge="1389129550000" FileType="45637" CompNumb="239" />
+      <File Name="Documentation/ProcessorExpert_Settings.xml" FileDate="2014-06-10, 23:27:37" FileAge="1402432057359" FileType="3072" />
+      <File Name="Generated_Code/PE_Types.h" FileDate="2014-06-10, 17:14:26" FileAge="1402409666341" FileType="45637" />
+      <File Name="Generated_Code/EchoTop.h" FileDate="2014-06-10, 23:27:37" FileAge="1402432057162" FileType="45637" CompNumb="147" />
+      <File Name="Generated_Code/EchoTop.c" FileDate="2014-06-10, 23:27:37" FileAge="1402432057168" FileType="45637" CompNumb="147" />
+    </GeneratedByPE>
+  </GeneratedFilesList>
+  <CodeGenReference>224</CodeGenReference>
+</CodeGenerationInfo>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="discoverTime">
+        <item>1 minut</item>
+        <item>2 minute</item>
+        <item>3 minute</item>
+        <item>5 minute</item>
+    </string-array>
+    <string-array name="discoverTimeValues">
+        <item>60</item>
+        <item>120</item>
+        <item>180</item>
+        <item>300</item>
+    </string-array>
+
+    <string-array name="autoPrune">
+        <item>o oră</item>
+        <item>o zi</item>
+        <item>o săptămână</item>
+    </string-array>
+    <string-array name="autoPruneValues">
+        <item>1</item>
+        <item>24</item>
+        <item>168</item>
+    </string-array>
+</resources>

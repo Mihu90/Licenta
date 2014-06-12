@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Furia Roșie</string>
+      
+    <string name="drawer_open">Deschide meniu</string>
+    <string name="drawer_close">Închide meniu</string>
+    
+    <!--  Sectiunea de splash a aplicatiei -->
+    <string name="splash_load_main">Încărcare modul de bază</string>
+    <string name="splash_load_db">Încărcare modul bază de date</string>
+    <string name="splash_load_bluetooth">Încărcare modul Bluetooth</string>
+    <string name="splash_load_finished">Inițializare terminată</string>
+    
+    <string name="title_menu_category_main">Main</string>
+    <string name="title_menu_logs">Jurnale</string>
+    <string name="title_menu_category_bluetooth">Bluetooth</string>
+    <string name="title_menu_category_configs">Configurări</string>
+    <string name="title_menu_configs_settings">Setări principale</string>
+    
+    <!-- Grupul de setari pentru administrarea intregii aplicatii -->
+    <string name="setting_general_title">Setări Generale</string>
+    <string name="setting_autosave_title">Salvare Automată</string>
+    <string name="setting_autosave_summary">A ultimului dispozitiv Bluetooth ales</string>
+    <string name="setting_autoprune_logs_title">Ștergere Jurnale</string>
+    <string name="setting_autoprune_logs_summary">Jurnalele vechi sunt șterse automat</string>
+    
+    <!-- Grupul de setari pentru administrarea modulului Bluetooth -->
+    <string name="setting_bluetooth_title">Setări Bluetooth</string>
+    <string name="setting_enable_bluetooth_title">Activează Bluetooth</string>
+    <string name="setting_enable_bluetooth_summary">Se încearcă activarea modulului la pornire?</string>
+    <string name="setting_discover_time_title">Timp de descoperire</string>
+    <string name="setting_discover_time_summary">Necesar descoperirii unor noi dispozitive</string>
+    
+    <!--  Basic fragment -->
+    <string name="basic_start_button">START</string>
+    <string name="basic_stop_button">STOP</string>
+    <string name="basic_status_text">Conexiune inexistentă</string>
+    <string name="basic_nodevice_found">Alege un dispozitiv Bluetooth la care dorești să te conectezi!</string>
+    
+    <string name="basic_step_establish_coonection">Stabilește conexiune</string>
+   	<string name="basic_step_start_configuration">Configurare mașină</string>
+   	
+   	<!-- Logs fragment -->
+   	<string name="logs_title_view">Pagina %1$d din %2$d</string>
+   	<string name="logs_next_button">Următoarea</string>
+   	<string name="logs_previous_button">Anterioara</string>
+    
+    <!-- Bluetooth fragment -->
+    <string name="bluetooth_list_paired">DISPOZITIVE DEJA ÎMPERECHEATE:</string>
+    <string name="bluetooth_list_unpaired">DISPOZITIVE CE NECESITĂ ÎMPERECHERE:</string>
+    <string name="bluetooth_button_on">Pornit</string>
+    <string name="bluetooth_button_off">Oprit</string>
+    <string name="bluetooth_button_search">Caută</string>
+    <string name="bluetooth_button_discover">Descoperă</string>
+    
+    <string name="toast_module_discovered">Un nou dispozitiv a fost găsit!</string>
+    <string name="toast_module_discovered_finished">Procesul de găsire a unor dispozitive s-a încheiat!</string>
+    
+</resources>

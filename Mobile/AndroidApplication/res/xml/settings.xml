@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" >
+   
+    <PreferenceCategory android:title="@string/setting_general_title" >
+		<CheckBoxPreference
+            android:key="setting_autosave_device"
+            android:title="@string/setting_autosave_title" 
+            android:summary="@string/setting_autosave_summary"
+            android:defaultValue="true" >
+        </CheckBoxPreference>
+        
+		<ListPreference
+            android:key="setting_autoprune_logs"
+            android:title="@string/setting_autoprune_logs_title"
+            android:summary="@string/setting_autoprune_logs_summary"
+            android:entries="@array/autoPrune"
+            android:entryValues="@array/autoPruneValues"
+            android:defaultValue="1" />
+    </PreferenceCategory>
+    
+	<PreferenceCategory android:title="@string/setting_bluetooth_title" >
+		<CheckBoxPreference
+            android:key="setting_enable_bluetooth"
+            android:title="@string/setting_enable_bluetooth_title" 
+            android:summary="@string/setting_enable_bluetooth_summary"
+            android:defaultValue="true" >
+        </CheckBoxPreference>
+ 
+        <ListPreference
+            android:key="setting_discover_time"
+            android:title="@string/setting_discover_time_title"
+            android:summary="@string/setting_discover_time_summary"
+            android:entries="@array/discoverTime"
+            android:entryValues="@array/discoverTimeValues"
+            android:defaultValue="300" />
+    </PreferenceCategory>
+ 
+</PreferenceScreen>

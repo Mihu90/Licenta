@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+        <ToggleButton 
+    		android:id="@+id/buttonOnOff"
+    		android:layout_width="wrap_content"
+    		android:layout_height="wrap_content"
+    		android:textOn="@string/bluetooth_button_on"
+    		android:textOff="@string/bluetooth_button_off"
+    		android:layout_marginTop="-3dp" />
+    	<Button 
+        	android:id="@+id/buttonDesc"
+        	android:layout_width="wrap_content"
+        	android:layout_height="wrap_content"
+        	android:text="@string/bluetooth_button_discover"/>
+   		<Button 
+       		android:id="@+id/buttonSearch"
+       		android:layout_width="wrap_content"
+       		android:layout_height="wrap_content"
+       		android:text="@string/bluetooth_button_search"/>
+    </LinearLayout>
+   
+    <TextView
+    	android:id="@+id/bluetoothListPaired"
+    	android:layout_width="wrap_content"
+   	 	android:layout_height="wrap_content"
+    	android:gravity="center_vertical"
+    	android:text="@string/bluetooth_list_paired"
+    	android:textStyle="bold"
+    	android:paddingLeft="32dp" />
+    
+   	<View 
+		android:layout_width="fill_parent"
+		android:layout_height="2dp"       
+		android:background="#C0C0C0"/>
+
+   	<ListView 
+       	android:id="@+id/listViewPaired"
+       	android:layout_width="match_parent"
+       	android:layout_height="180dp"/>
+   	
+   	<TextView
+    	android:id="@+id/bluetoothListUnpaired"
+    	android:layout_width="wrap_content"
+   	 	android:layout_height="wrap_content"
+    	android:gravity="center_vertical"
+    	android:text="@string/bluetooth_list_unpaired"
+    	android:textStyle="bold"
+    	android:paddingLeft="32dp" />
+    
+   	<View 
+		android:layout_width="fill_parent"
+		android:layout_height="2dp"       
+		android:background="#C0C0C0" />
+
+   	<ListView 
+       	android:id="@+id/listViewDetected"
+      	android:layout_width="match_parent"
+       	android:layout_height="match_parent" />
+</LinearLayout>
